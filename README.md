@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **CSS, SASS, Javascript**
 
-- 📫 How to reach me **matusleonc@gmail.com**
+- 📫 How to reach me **matusleonc@outlook.com**
 
 - ⚡ Fun fact **I think i'm the only person who doesn't like potatoes**
 
