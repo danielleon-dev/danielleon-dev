@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)]
 <h1 align="center">Hi 👋, I'm Daniel León</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
