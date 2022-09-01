@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/danml00" target="blank"><img src="https://img.shields.io/twitter/follow/danml00?logo=twitter&style=for-the-badge" alt="danml00" /></a> </p>
 
-- 🔭 I’m currently working on **Arquitecture Web Site**
+- 🔭 I’m currently interested on Front-End Development and Mobile
 
 - 🌱 I’m currently learning **React JS**
 
