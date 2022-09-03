@@ -14,9 +14,9 @@
 
 - Project: [TechPRO Landing Page](https://techpro-landing-page.netlify.app/)
 
-- Project: [TechPRO Landing Page](https://arquitectura-landing-page.netlify.app/)
+- Project: [Arquitectura Landing Page](https://arquitectura-landing-page.netlify.app/)
 
-- Project: [TechPRO Landing Page](https://original-trombones-landing-page.netlify.app/)
+- Project: [Original Trombones Landing Page](https://original-trombones-landing-page.netlify.app/)
 
 - 💬 Ask me about **CSS, SASS, Javascript**
 
