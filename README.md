@@ -14,6 +14,10 @@
 
 - Project: [TechPRO Landing Page](https://techpro-landing-page.netlify.app/)
 
+- Project: [TechPRO Landing Page](https://arquitectura-landing-page.netlify.app/)
+
+- Project: [TechPRO Landing Page](https://original-trombones-landing-page.netlify.app/)
+
 - 💬 Ask me about **CSS, SASS, Javascript**
 
 - 📫 How to reach me **matusleonc@outlook.com**
