@@ -18,7 +18,7 @@
 
 - Project: [Original Trombones Landing Page](https://original-trombones-landing-page.netlify.app/)
 
-- Project: [Nucleus E-Wallet](https://original-trombones-landing-page.netlify.app/](https://nucleus-ewallet1.netlify.app/)
+- Project: [Nucleus E-Wallet](https://nucleus-ewallet1.netlify.app/)
 
 
 - 💬 Ask me about **CSS, SASS, Javascript**
