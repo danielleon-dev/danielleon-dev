@@ -20,6 +20,7 @@
 
 - Project: [Nucleus E-Wallet](https://nucleus-ewallet1.netlify.app/)
 
+- Project: [La Cafeteria](https://lacafeteria-en.netlify.app/)
 
 - 💬 Ask me about **CSS, SASS, Javascript**
 
