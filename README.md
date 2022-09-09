@@ -14,7 +14,7 @@
 
 - Project: [La Cafeteria](https://lacafeteria-en.netlify.app/)
 
-- Project: [airbnb clone](airbnb-clone-pract.netlify.app)
+- Project: [airbnb clone](airbnb-clone-pract.netlify.app/)
 
 
 - 💬 Ask me about **CSS, SASS, Javascript**
