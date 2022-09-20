@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- Project: [Nucleus E-Wallet](https://nucleus-ewallet1.netlify.app/)
+- Project: [Administrador de Citas](administrador-citas-js2.netlify.app)
 
 - Project: [La Cafeteria](https://lacafeteria-en.netlify.app/)
 
