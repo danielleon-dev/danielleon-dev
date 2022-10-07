@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- Project: [Administrador de Citas](administrador-citas-js2.netlify.app)
-
-- Project: [La Cafeteria](https://lacafeteria-en.netlify.app/)
-
 - 💬 Ask me about **CSS, SASS, Javascript**
 
 - 📫 How to reach me **matusleonc@outlook.com**
