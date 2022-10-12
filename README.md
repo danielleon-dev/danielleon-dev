@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I think i'm the only person who doesn't like potatoes**
 
+- <a href="https://daniel-leondev.netlify.app/" target="_blank"> My Portfolio </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danml00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danml00" height="30" width="40" /></a>
