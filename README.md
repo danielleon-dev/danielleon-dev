@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel León</h1>
 <h3 align="center">Full Stack Developer from México</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **PHP, Angular, C# .Net Core .Net FrameWork and C++**
 
 - 🏢 I'm currently working at Coppel as Software Developer
 
