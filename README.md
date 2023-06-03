@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel León</h1>
 <h3 align="center">Full Stack Developer from México</h3>
 
-- 🌱 I’m currently learning **PHP, Angular, C# .Net Core .Net FrameWork and C++**
+- 🌱 I’m currently learning **Spring Boot, Angular, Android Kotlin / Java, SQL and Scrum Methodology**
 
 - 🏢 I'm currently working at Coppel as Software Developer
 
 - 👨‍💻 All of my projects are available at [https://daniel-leondev.netlify.app/](https://daniel-leondev.netlify.app/)
-
-- 💬 Ask me about **CSS, SASS, Javascript, React JS, Node Js, TailwindCSS**
 
 - 📫 How to reach me **danielmatus468@gmail.com**
 
