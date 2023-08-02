@@ -5,8 +5,6 @@
 
 - 🏢 I'm currently working at Coppel as Software Developer
 
-- 👨‍💻 All of my projects are available at [https://daniel-leondev.netlify.app/](https://daniel-leondev.netlify.app/)
-
 - 📫 How to reach me **danielmatus468@gmail.com**
 
 - ⚡ Fun fact **I think i'm the only person who doesn't like potatoes**
