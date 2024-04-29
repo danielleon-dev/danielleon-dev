@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular, Android Kotlin / Java, SQL and Scrum Methodology**
 
-- 🏢 I'm currently working at Coppel as Software Developer
+- 🏢 I'm currently working at Coppel as Senior Software Developer
 
 - 📫 How to reach me **danielmatus468@gmail.com**
 
